@@ -1,6 +1,11 @@
 {
   "name": "vramana-personal",
-  "owner": { "name": "vramana" },
+  "owner": {
+    "name": "vramana"
+  },
+  "metadata": {
+    "description": "vramana's personal Claude Code skills"
+  },
   "plugins": [
     {
       "name": "personal-skills",
