@@ -1,0 +1,8 @@
+{
+  "name": "personal-skills",
+  "version": "0.1.0",
+  "description": "Personal skills: consistent demo videos of real frontends, and simple diagram-first artifacts.",
+  "author": { "name": "vramana" },
+  "repository": "https://github.com/vramana/personal-skills",
+  "license": "MIT"
+}

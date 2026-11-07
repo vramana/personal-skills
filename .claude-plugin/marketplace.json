@@ -1,0 +1,11 @@
+{
+  "name": "vramana-personal",
+  "owner": { "name": "vramana" },
+  "plugins": [
+    {
+      "name": "personal-skills",
+      "source": "./",
+      "description": "Personal skills: consistent demo videos of real frontends, and simple diagram-first artifacts."
+    }
+  ]
+}
