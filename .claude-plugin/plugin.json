@@ -1,8 +1,10 @@
 {
   "name": "personal-skills",
-  "version": "0.1.0",
-  "description": "Personal skills: consistent demo videos of real frontends, and simple diagram-first artifacts.",
-  "author": { "name": "vramana" },
+  "version": "0.2.0",
+  "description": "Personal skills: consistent demo videos of real frontends, simple diagram-first artifacts, and constrained UI hill climbing.",
+  "author": {
+    "name": "vramana"
+  },
   "repository": "https://github.com/vramana/personal-skills",
   "license": "MIT"
 }
